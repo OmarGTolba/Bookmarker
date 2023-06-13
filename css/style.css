@@ -1,0 +1,51 @@
+
+h3{
+    color: #aaa !important;
+}
+.form{
+    background-color: #EEE;
+}
+input{
+    width: 80% !important;
+    height: 2em !important;
+}
+.sites{
+    background-color: #EEE;
+}
+table td{
+    padding-right: 15px;
+}
+p{
+    font-size: 12px !important;
+    color: #AAA;
+}
+ a{
+    
+  text-decoration: none !important;  
+  background-color: rgb(17, 103, 196);
+  color: white !important;
+  border:  rgb(17, 103, 196) 1px solid;
+  font-size: 15px !important;
+  max-width: fit-content;
+  padding: 10px 10px !important;
+  margin: 15px 5px !important;
+  border-radius: 5px !important;
+
+}
+
+.row{  
+    background-image: linear-gradient(to bottom , #EEE, white);
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+button{
+    background-color: rgb(17, 103, 196);
+    color: white;
+    border:  rgb(17, 103, 196) 1px solid;
+    font-size: 15px !important;
+    max-width: fit-content;
+    padding: 10px 10px;
+    margin: 15px 5px;
+    border-radius: 5px !important;
+}
